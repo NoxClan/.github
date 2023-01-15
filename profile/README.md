@@ -12,8 +12,8 @@
 </h1>
 
 
-### * Discord 
-### * Instegram
-### * YouTube
+* ###  Discord 
+* ###  Instegram
+* ###  YouTube
 
 
