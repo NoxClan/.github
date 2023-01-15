@@ -11,7 +11,7 @@
      Scocial Media 
 </h1>
 
-<h1/>
+
 ### Discord 
 ### Instegram
 ### YouTube
