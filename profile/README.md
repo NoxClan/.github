@@ -1,6 +1,8 @@
-<h1/>
-## Hi there 👋
-<h1/>
+<h1 align="center">
+     Welcome To Nox
+</h1>
+
+
 
 
 ```Nox clan is started```
